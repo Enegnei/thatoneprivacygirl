@@ -4,9 +4,9 @@ layout: default
 
 *•••• •••• •••• •••• •••• BEGIN TRANSMISSION •••• •••• •••• •••• ••••*
 
-𝔹𝕖 𝕥𝕙𝕖 𝕘𝕝𝕚𝕥𝕔𝕙 𝕪𝕠𝕦 𝕨𝕚𝕤𝕙 𝕥𝕠 𝕤𝕖𝕖 𝕚𝕟 𝕥𝕙𝕖 𝕄𝕒𝕥𝕣𝕚𝕩.[♬](https://youtu.be/3kK_HGNOo9A)[♫](https://youtu.be/kXSLCQdG_Vg)[♬](https://youtu.be/32kYH6XZrIo)[♫](https://youtu.be/oIb9QUGjdIc)[♬](https://www.youtube.com/watch?v=WGtjPkDfmLs) [♫](https://www.youtube.com/watch?v=7E0fVfectDo)
+𝔹𝕖 𝕥𝕙𝕖 𝕘𝕝𝕚𝕥𝕔𝕙 𝕪𝕠𝕦 𝕨𝕚𝕤𝕙 𝕥𝕠 𝕤𝕖𝕖 𝕚𝕟 𝕥𝕙𝕖 𝕄𝕒𝕥𝕣𝕚𝕩.[♬](https://youtu.be/3kK_HGNOo9A)[♫](https://youtu.be/kXSLCQdG_Vg)[♬](https://youtu.be/32kYH6XZrIo)[♫](https://youtu.be/oIb9QUGjdIc)[♬](https://www.youtube.com/watch?v=WGtjPkDfmLs)[♫](https://www.youtube.com/watch?v=7E0fVfectDo)
 
-**JANINE** (J9) is a privacy researcher, independent investigative [journalist](https://einzelgaengerinmotte.files.wordpress.com/2018/02/revision-controlled_journalism_v2.pdf), and educator on the topics of informational self-determination and (counter)surveillance. She is the author of '[This Month In Bitcoin Privacy](https://enegnei.github.io/This-Month-In-Bitcoin-Privacy/)' (TMIBP) newsletter, and a board member of [Open Sats](https://opensats.org/about/j9). From 2019 to 2022, she was a member of the CryptoCurrency Certification Consortium's (C4) [Certified Bitcoin Professional exam committee](https://cryptoconsortium.org/team-c4/). During 2023, she was part of the Human Rights Foundation's (HRF) [CBDC Tracker](https://cbdctracker.hrf.org/fellows) fellowship.
+**JANINE** (J9) is a privacy researcher, independent investigative [journalist](https://einzelgaengerinmotte.files.wordpress.com/2018/02/revision-controlled_journalism_v2.pdf), and educator on the topics of informational self-determination and (counter)surveillance. She is the author of '[Memoria](https://memoria.ghost.io/)' (coming soon) and '[This Month In Bitcoin Privacy](https://enegnei.github.io/This-Month-In-Bitcoin-Privacy/)' (TMIBP) newsletter. Since its founding, she has been a board member of [Open Sats](https://opensats.org/about/j9). From 2019 to 2022, she was a member of the CryptoCurrency Certification Consortium's (C4) [Certified Bitcoin Professional exam committee](https://cryptoconsortium.org/team-c4/). During 2023, she was part of the Human Rights Foundation's (HRF) [CBDC Tracker](https://cbdctracker.hrf.org/fellows) fellowship.
 
 > Freiheit ist eine Reise ohne Ankunft.
 
